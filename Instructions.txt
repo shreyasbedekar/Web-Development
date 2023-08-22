@@ -1,2 +1,3 @@
 Hello!
 This is sample file for push.
+Ready for second push
